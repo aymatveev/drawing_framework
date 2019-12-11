@@ -28,5 +28,5 @@ setup(
     packages=find_namespace_packages(where='src'),
     python_requires='>=3, <4',
     install_requires=[],
-    extras_require={'dev': ['testing-framework @ git+https://github.com/aymatveev/testing_framework']},
+    extras_require={'dev': ['testing-framework-aymatveev @ git+https://github.com/aymatveev/testing_framework.git']},
 )
