@@ -8,7 +8,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='plotting-framework-aymatveev',
-    version='0.1',
+    version='0.2',
     description='Demo plotting framework',
     long_description=long_description,
     long_description_content_type='text/markdown',
